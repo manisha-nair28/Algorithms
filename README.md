@@ -11,5 +11,5 @@ Programming Exercises:
 #### [6. Implement a quick sort algorithm for an array of integers.](https://github.com/manisha-nair28/Algorithms/tree/main/6.%20Quick%20Sort)
 #### [7. Implement a linear search algorithm for an array of integers.](https://github.com/manisha-nair28/Algorithms/tree/main/7.%20Linear%20Search)
 #### [8. Implement a hash table data structure using separate chaining collision resolution.](https://github.com/manisha-nair28/Algorithms/tree/main/8.%20Hash%20table%20(separate%20chaining))
-#### [9. Implement a hash table data structure using linear probing collision resolution.]()
+#### [9. Implement a hash table data structure using linear probing collision resolution.](https://github.com/manisha-nair28/Algorithms/tree/main/9.%20Hash%20Table%20(linear%20probing))
 #### [10. Implement a heap data structure and use it to sort an array of integers.]()
