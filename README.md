@@ -17,7 +17,7 @@ Programming Exercises:
 ## Unit-2: Divide and Conquer:
 
 Programming Exercises:
-#### 1. Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
+#### 1. [Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.](https://github.com/manisha-nair28/Algorithms/tree/main/11.%20Factorial)
 #### 2. [Implement a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.](https://github.com/manisha-nair28/Algorithms/tree/main/12.%20Fibonacci)
 #### 3. Implement a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
 #### 4. Implement a recursive algorithm for computing the Euclidean distance between two points in 2D space using divide-and-conquer.
