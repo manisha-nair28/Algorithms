@@ -21,7 +21,7 @@ Programming Exercises:
 #### 2. [Implement a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.](https://github.com/manisha-nair28/Algorithms/tree/main/12.%20Fibonacci)
 #### 3. [Implement a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.](https://github.com/manisha-nair28/Algorithms/tree/main/13.%20Greatest%20Common%20Divisor)
 #### 4. [Implement a recursive algorithm for computing the Euclidean distance between two points in 2D space using divide-and-conquer.](https://github.com/manisha-nair28/Algorithms/tree/main/14.%20Eucleadian%20Distance)
-#### 5. Implement a divide-and-conquer algorithm for finding the maximum subarray sum of a given array of integers.
+#### 5. [Implement a divide-and-conquer algorithm for finding the maximum subarray sum of a given array of integers.](https://github.com/manisha-nair28/Algorithms/tree/main/15.%20Maximum%20Subarray)
 #### 6. Implement a divide-and-conquer algorithm for merging two sorted arrays.
 #### 7. Implement a divide-and-conquer algorithm for finding the kth largest element in an unsorted array of integers.
 #### 8. Implement a divide-and-conquer algorithm for multiplying two large integers.
