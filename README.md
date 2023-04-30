@@ -25,5 +25,5 @@ Programming Exercises:
 #### 6. [Implement a divide-and-conquer algorithm for merging two sorted arrays.](https://github.com/manisha-nair28/Algorithms/tree/main/16.%20Sorted%20Array%20Merge)
 #### 7. [Implement a divide-and-conquer algorithm for finding the kth largest element in an unsorted array of integers.](https://github.com/manisha-nair28/Algorithms/tree/main/17.%20k%20largest%20element)
 #### 8. [Implement a divide-and-conquer algorithm for multiplying two large integers.](https://github.com/manisha-nair28/Algorithms/blob/main/18.%20Integer%20multiplication)
-#### 9. Implement a divide-and-conquer algorithm for finding the closest pair of points in 2D space.
+#### 9. [Implement a divide-and-conquer algorithm for finding the closest pair of points in 2D space.](https://github.com/manisha-nair28/Algorithms/tree/main/19.%20Closest%20pair%20of%20points%20)
 #### 10. Implement a divide-and-conquer algorithm for sorting a linked list.
