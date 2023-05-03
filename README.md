@@ -31,7 +31,7 @@ Programming Exercises:
 ## Unit-3: Dynamic Programming:
 Programming Exercises:
 #### 1. [Implement the Fibonacci sequence using dynamic programming. Analyze the time complexity of your implementation and compare it with the time complexity of a recursive implementation.](https://github.com/manisha-nair28/Algorithms/blob/main/Dynamic%20Programming%201/fibonacci.cpp)
-#### 2. [Implement the longest common subsequence problem using dynamic programming. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.]()
+#### 2. [Implement the longest common subsequence problem using dynamic programming. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.](https://github.com/manisha-nair28/Algorithms/tree/main/Dynamic%20Programming%202)
 #### 3. [Implement the knapsack problem using dynamic programming. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a greedy algorithm.]()
 #### 4. Implement the rod-cutting problem using dynamic programming. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
 #### 5. Implement the matrix chain multiplication problem using dynamic programming. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.
