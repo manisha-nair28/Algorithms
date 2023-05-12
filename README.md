@@ -1,5 +1,5 @@
-# Algorithms
-Collection of different algorithms.
+# Analysis and Design of Algorithms(ADA) Assignment
+This repository contains my college assignments for the subject of Analysis and Design of Algorithms (ADA) in the 6th semester of my 3rd year. Collection of programming assignments that I completed as part of the ADA course are contained in this repository. These assignments cover a range of topics, including flowcharts, algorithm design paradigms, complexity analysis, and more. Each assignment comes with a detailed problem statement and my implementation of the solution.
 
 ## Unit-1: Introduction to Algorithms:
 Programming Exercises:
@@ -37,7 +37,7 @@ Programming Exercises:
 #### 5. [Implement the matrix chain multiplication problem using dynamic programming. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.](https://github.com/manisha-nair28/Algorithms/tree/main/Dynamic%20Programming%205)
 #### 6. [Develop a dynamic programming algorithm for the edit distance problem. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive recursive implementation.](https://github.com/manisha-nair28/Algorithms/tree/main/Dynamic%20Programming%206)
 #### 7. [Develop a dynamic programming algorithm for the coin change problem. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a greedy algorithm.](https://github.com/manisha-nair28/Algorithms/tree/main/Dynamic%20Programming%207)
-#### 8. Implement a dynamic programming algorithm to find the maximum sum subarray. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive brute-force approach.
-#### 9. Develop a dynamic programming algorithm to find the longest increasing subsequence. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a brute-force approach.
-#### 10. Create a flowchart for a dynamic programming algorithm that solves the longest common substring problem. Analyze the time and space complexity of the algorithm and compare it with the time and space complexity of a brute-force approach.
+#### 8. [Implement a dynamic programming algorithm to find the maximum sum subarray. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a naive brute-force approach.]()
+#### 9. [Develop a dynamic programming algorithm to find the longest increasing subsequence. Analyze the time and space complexity of your implementation and compare it with the time and space complexity of a brute-force approach.]()
+#### 10.[ Create a flowchart for a dynamic programming algorithm that solves the longest common substring problem. Analyze the time and space complexity of the algorithm and compare it with the time and space complexity of a brute-force approach.]()
 
